@@ -1,0 +1,39 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif, serif;
+	font-size: 12px;
+}
+
+.cotnainer {
+	width: 80%;
+	margin: 20px auto;
+	background-color: #efefef;
+}
+
+header {
+	width: 100%;
+
+	padding: 20px 0;
+	text-align: center;
+}
+
+.sidebar {
+	width: 20%;
+	float: left;
+	
+}
+.content {
+	float: right;
+	width: 80%;
+	
+}
+
+footer {
+	background-color: #809;
+	color: #fff;
+	text-align: center;
+	clear: both;
+	padding: 20px 0;
+
+}
