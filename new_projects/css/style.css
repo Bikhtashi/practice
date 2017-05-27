@@ -1,0 +1,44 @@
+body {
+	padding: 0;
+	margin: 0; 
+}
+
+.container {
+	background: #efefef;
+	width: 80%;
+	margin: 30px auto;
+}
+
+header {
+	width: 100%;
+	padding: 10px 0 10px 0;
+	text-align: center;
+	background: #984985; 
+}
+
+.content {
+	width: 100%;
+	background: #dfdfdf;
+	margin-top: 10px;
+	padding-top: 20px;
+}
+
+.slider {
+	width: 30px;
+	float: left;
+	background: #908590;
+}
+
+.mian-section {
+	width: 68%;
+	background-color: #480821;
+	float: right;
+}
+
+footer {
+	padding: 10px 0;
+	text-align: center;
+	background-color: #909090;
+	color: #476;
+	clear: both; 
+}
