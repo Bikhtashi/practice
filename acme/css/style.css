@@ -173,10 +173,37 @@ article#main-col {
 /* Media query */
 
 @media(max-width: 768px) {
-	header #branding, header nav, header nav li {
+	header #branding,
+	#newsletter h1,
+	#boxes .box,
+	header nav,
+	header nav li,
+	aside#sidebar,
+	article#main-col {
 	float: none;
 	text-align: center;
 	width: 100%;
-
 	}
+
+
+
+	header {
+		padding-bottom: 20px;
+	}
+
+	#showcase h1 {
+		margin-top: 40px;
+	}
+
+	#newsletter button {
+		display: block;
+		width: 100%;
+	}
+
+	#newsletter form input [type="email"] {
+		widows: 200%;
+		margin-bottom: 5px;
+	}
+
+
 }
