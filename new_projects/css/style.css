@@ -3,8 +3,8 @@ body {
 	margin: 0; 
 }
 
-.contnainer {
-	background: #efefef;
+.container {
+	background: red;
 	width: 80%;
 	margin: 30px auto;
 }
